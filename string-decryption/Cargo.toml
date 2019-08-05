@@ -1,0 +1,8 @@
+[package]
+name = "string_decryption"
+version = "0.1.0"
+authors = ["UniquePassive"]
+edition = "2018"
+
+[lib]
+name = "string_decryption"

@@ -1,0 +1,2 @@
+[workspace]
+members = ["mcve_plugin"]

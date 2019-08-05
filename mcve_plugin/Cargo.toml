@@ -1,0 +1,9 @@
+[package]
+name = "mcve-plugin"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+string_encryption_plugin = { path = "../string-encryption-plugin" }
+string_decryption = { path = "../string-decryption" }
+

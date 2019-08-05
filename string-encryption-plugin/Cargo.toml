@@ -1,0 +1,12 @@
+[package]
+name = "string_encryption_plugin"
+version = "0.1.0"
+authors = ["UniquePassive"]
+edition = "2018"
+
+[lib]
+name = "string_encryption_plugin"
+plugin = true
+
+[dependencies]
+rand = "0.3"
